@@ -25,3 +25,6 @@ Projeto simples feito com HTML, CSS e JavaScript que calcula o Índice de Massa 
 - CSS3
 
 - JavaScript (puro)
+- 
+## Autor
+Manuel Júnior – [Mjuniory](https://github.com/Mjuniory)
